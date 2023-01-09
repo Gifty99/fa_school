@@ -23,7 +23,7 @@ class LoginScreens extends StatelessWidget {
               style: TextStyle(fontSize: 30, fontWeight: FontWeight.w500),
             ),
             Text("FA School",
-                style: TextStyle(fontSize: 40, fontWeight: FontWeight.w500)),
+                style: TextStyle(color: Colors.pink,fontSize: 40, fontWeight: FontWeight.w500)),
             SizedBox(
               height: 16,
             ),
